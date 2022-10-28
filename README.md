@@ -1,1 +1,1 @@
-# ADA
+Projetos do curso DiversidadeTech from Let's Code by ADA
